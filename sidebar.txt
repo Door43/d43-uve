@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uve:home|Door43 (uve)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uve|d43-uve repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uve/archive/master.zip|d43-uve.zip]]
+
+**Recent Changes**
+{{changes>ns = uve}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uve|Ethnologue data]]
+
